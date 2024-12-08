@@ -1,6 +1,8 @@
 # memecoin-portfolio-simulation
 Ok you are buying and selling coins, but how should you do it? How do you make sure your strategy actually works? Here is a simple tool to play out your strategy and see if you make bank or go broke
 
+![Portfolio Simulation](DNFL_portfolio_simulation.png)
+
 ## Installation
 
 You need python >= 3.8
